@@ -1,8 +1,4 @@
-/*
-Write a Java program for handling the following exceptions
- (i)  Arithmetic Exception          (ii) ArrayIndexOutOfBounds Exception 
-(iii) NumberFormatException         (iv) StringIndexOutOfBounds Exception
- */
+
 package labexcercise9;
 
 import java.util.Scanner;
