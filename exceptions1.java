@@ -1,8 +1,4 @@
-/*
-Write a java program for exception handling:
-a) To create a user defined exception whenever user input the word “hello”.
-b) To add two integers and raise exception when any other character except number (0 – 9) is given as input.
- */
+
 package labexcercise9;
 
 import java.util.Scanner;
